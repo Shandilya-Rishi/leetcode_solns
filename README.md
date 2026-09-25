@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Depth-First Search
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
@@ -28,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0704-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
