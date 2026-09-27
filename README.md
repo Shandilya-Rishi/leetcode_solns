@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0704-binary-search) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
