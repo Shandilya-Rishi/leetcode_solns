@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0225-implement-stack-using-queues) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0231-power-of-two) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shandilya-Rishi/leetcode_solns/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
